@@ -1,3 +1,14 @@
+/*
+	var obj = {
+		name: '狼族小狈',
+		QQ: 1340641314,
+		github: 'https://github.com/1340641314/previewPicture',
+		statement: '在保留头部版权的情况下，可以自由发布修改，应用于商业用途',
+		version: '1.0.0',
+		update: '2015-11-8'
+	};
+*/
+
 function PreviewPicture(selector, mySetting) {
 	function PreviewPicture (selector, mySetting) {
 		
